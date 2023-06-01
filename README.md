@@ -1,7 +1,3 @@
-# Commands
-- /spawngadget <GadgetID> <X> <Y> <Z> <X> <Y> <Z>
-- /changegadget <ID> <GadgetID> <X> <Y> <Z> <X> <Y> <Z>
-- /removegadget <ID>
+I tried to copy the activity from SAMP by pulling boxes
 
-# Permission
-- genb.builder
+Activity location: -599 204.75 145
