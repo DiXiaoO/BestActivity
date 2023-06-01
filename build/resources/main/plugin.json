@@ -1,0 +1,10 @@
+{
+  "name": "BestActivity",
+  "description": "The best activity straight from SAMP",
+  "api": 2,
+  "version": "0.0.1",
+  "mainClass": "gen.BestActivityCore",
+  "authors": [
+    "DiXiao"
+  ]
+}
